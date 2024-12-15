@@ -1,0 +1,5 @@
+package compress
+
+func CompressFiles() {
+
+}
